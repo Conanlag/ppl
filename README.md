@@ -41,6 +41,11 @@ Importante: antes de subir algun cambio asegurarse de que sean los cambios actua
 git pull origin main
 ´´´
 
+## 2. Instalar WSL 
+
+para instalar WSL nos iremos a la microsoft store y buscaremos ubuntu
+instalaremos y daremos usuario y contraseña para la terminal.
+
 
 
 
